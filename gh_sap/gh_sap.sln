@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gh_sap", "gh_sap\gh_sap.csproj", "{DAE18A0E-3805-4001-9C84-C610DB8B541A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sap", "sap\sap.csproj", "{10F28A5E-A8D0-4997-9D1E-A01FA8CF5024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DAE18A0E-3805-4001-9C84-C610DB8B541A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE18A0E-3805-4001-9C84-C610DB8B541A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE18A0E-3805-4001-9C84-C610DB8B541A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F28A5E-A8D0-4997-9D1E-A01FA8CF5024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F28A5E-A8D0-4997-9D1E-A01FA8CF5024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F28A5E-A8D0-4997-9D1E-A01FA8CF5024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F28A5E-A8D0-4997-9D1E-A01FA8CF5024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
